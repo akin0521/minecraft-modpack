@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/additional-lights.pw.toml"
+hash = "760b9fc6688b0f2caed2dfa42fe41862c72c81e361deb5a73a5c7fa200873e7d"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
 metafile = true
@@ -8,6 +13,16 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "d2465361aab788febe2b319413d169a28a7a8de84a7cc1da77e5489884917ea3"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "5922845f6c9bb57548eca500857ebd2268bffe3799373b7306c2bdfb706d5f95"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "90b4a61d7ee6099dc34cf85f099299293401b87fc8f3ca07ed59262c1c63c5a5"
 metafile = true
 
 [[files]]
@@ -23,11 +38,6 @@ metafile = true
 [[files]]
 file = "mods/automobility.pw.toml"
 hash = "e0b0d4ffb66d813a4e6da0910d8e050bbfd8e16731dacb78fc5478029932c473"
-metafile = true
-
-[[files]]
-file = "mods/blue-seoul-vehicles.pw.toml"
-hash = "9bc11827118b9ba300ae63bcabd00a5caef93f9b503c7f2045460c4e067aabab"
 metafile = true
 
 [[files]]
@@ -61,6 +71,11 @@ hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
 metafile = true
 
 [[files]]
+file = "mods/clockwork-mod.pw.toml"
+hash = "4fb4bfb9983e56e43573d8729516be7923340be79ed35325ec641acf5f63cbc9"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -73,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
+metafile = true
+
+[[files]]
+file = "mods/create-additional-lights.pw.toml"
+hash = "2efedb0b64d603d60d0d6dce6eee71d73e6d523468f16f53179c77a4e9a32469"
 metafile = true
 
 [[files]]
@@ -131,8 +151,18 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/fairy-lights.pw.toml"
+hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "c83385838fbf5cdd40684e5f6d4b7bcc2126de4abca229a60b7063e57a5a4615"
+metafile = true
+
+[[files]]
+file = "mods/fens-rpg-titles.pw.toml"
+hash = "bb5f7ddcfc27de871787cab18d571c205ab0bbc69122b0bdab733064d18ac5fd"
 metafile = true
 
 [[files]]
@@ -161,11 +191,6 @@ hash = "5f2372d0191c0c6412051ef3d17831c23868a54f6886045ab37385a8789b600e"
 metafile = true
 
 [[files]]
-file = "mods/immersive-vehicles.pw.toml"
-hash = "704fad4989730378eb427751d32a53d1e5bd8fb8ef5a2677a766cca404b519a1"
-metafile = true
-
-[[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
 metafile = true
@@ -173,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/improved-mobs.pw.toml"
 hash = "5aa379ba6fe1ebdda8bbe5f5af6a333cf9262ec63fd67ca41febcc885ac2d70f"
+metafile = true
+
+[[files]]
+file = "mods/industrialdeco.pw.toml"
+hash = "c0a808f8c61661fc339846f80ace096aeb88b25b51b1818bb02a35fbee6fd7d1"
 metafile = true
 
 [[files]]
@@ -186,8 +216,18 @@ hash = "7ffe94c2daa8151edea01fccefaa2bbb87e648d92dd0ca9ae485880053e50e20"
 metafile = true
 
 [[files]]
+file = "mods/knight-lib.pw.toml"
+hash = "d9b80a2bac9c11a760dcaccff38788952501c3caf6b134d8d2abc411210cd94d"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
+hash = "ee9414dab42439269380159db091cde2e74a82222dafff660f34597f877b894a"
 metafile = true
 
 [[files]]
@@ -208,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
 hash = "d4a42351be29d476b540e810a2339b05f2f0cf789d62404da7c708b685c9ecda"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "0b3e34715f20c9f0d6d19aa043c3a53c5d3bc70a977da2fdf1651bf5c9b72fb3"
 metafile = true
 
 [[files]]
@@ -243,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/shippy-ships.pw.toml"
 hash = "3257153ddb9505adb7dabd62b626bce8e15fdad7e3c95eaff77137051d244adf"
+metafile = true
+
+[[files]]
+file = "mods/simply-light.pw.toml"
+hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
 metafile = true
 
 [[files]]
@@ -323,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/trotting-wagons.pw.toml"
 hash = "28d7feccb5b1fcd9b141dad4353e96bcd7154b011a871953096305aa75154a66"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies-2-plus-supplementaries-cannon-fix.pw.toml"
+hash = "3c37f6390238bd22f75e3b4cb7cd7659da5ed2b3526f5d7ff0e2d7ea7a67033c"
 metafile = true
 
 [[files]]
