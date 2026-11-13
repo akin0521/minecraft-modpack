@@ -126,6 +126,11 @@ hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "e6d1f36e9e0193fe410d136e0cda8a7f6dbbc809c0644f06a601bddf5b38a395"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "83696650659994c6facf18e79b7b53877a0df0622d6beeeb7b27bbe75f6bc0b7"
 metafile = true
@@ -326,6 +331,11 @@ hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "b3c68ce85c6cbdf37a00e39d18ea0f30ef7f69ee414151615adc2aa793661b81"
+metafile = true
+
+[[files]]
 file = "mods/tacz-durability.pw.toml"
 hash = "536a7272e566ad6315debd15789d553ffe67218a98ff204cb3c7741209be443e"
 metafile = true
@@ -378,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies-2-plus-supplementaries-cannon-fix.pw.toml"
 hash = "3c37f6390238bd22f75e3b4cb7cd7659da5ed2b3526f5d7ff0e2d7ea7a67033c"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
 metafile = true
 
 [[files]]
