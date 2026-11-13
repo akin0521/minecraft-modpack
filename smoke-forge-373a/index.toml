@@ -186,6 +186,11 @@ hash = "bb5f7ddcfc27de871787cab18d571c205ab0bbc69122b0bdab733064d18ac5fd"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
 file = "mods/flashier-flashlights.pw.toml"
 hash = "97eed615bc3c32b2c6b8ba859c89bd0bfe4c331817a2daa97d5d2b8addf4e171"
 metafile = true
@@ -283,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
 hash = "d4a42351be29d476b540e810a2339b05f2f0cf789d62404da7c708b685c9ecda"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "ec20421ab84204837b743ebeb0852415479dc658b4268fdd36033ef135ff7cc9"
 metafile = true
 
 [[files]]
