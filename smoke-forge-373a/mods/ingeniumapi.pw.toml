@@ -1,0 +1,13 @@
+name = "Ingenium API"
+filename = "ingeniumapi-1.0.2-FORGE-MC-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bhnA6sV8/versions/ACcUSzgo/ingeniumapi-1.0.2-FORGE-MC-1.20.1.jar"
+hash-format = "sha512"
+hash = "e707486f3f2aa3b81bccdbd646cffbab098b16a27efe93cdc5d338bced3569677d6e99cb10e50078a773b39e109b4fada2ceb0b55b97c3280597a43596dbaeec"
+
+[update]
+[update.modrinth]
+mod-id = "bhnA6sV8"
+version = "ACcUSzgo"

@@ -1,0 +1,13 @@
+name = "Blue Seoul Vehicles [Immersive Vehicles]"
+filename = "blueseoul_narae_v6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b09c86eea81ef2240b90ea69dd716ab6fa662c16"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8311559
+project-id = 978100

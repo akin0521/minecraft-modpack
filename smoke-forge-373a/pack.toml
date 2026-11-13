@@ -1,0 +1,13 @@
+name = "Cheonji"
+author = "yungyeom"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "51c8bbc69d5a9d56a934f946f6c601129103a282f914ab239cbd7fd683ee8844"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

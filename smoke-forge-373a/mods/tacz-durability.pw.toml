@@ -1,0 +1,13 @@
+name = "[TACZ] Durability"
+filename = "gundb-2.2.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eYsYyxH0/versions/CLUuJ1It/gundb-2.2.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "3d20e4ee43ecfdd3a3bd0a4afccc9c8fbfd9f94a7c3bbbb573ce6b0c00a040fc3b6cdad355c474582f98f7309e0eb959c9928fb03b846532f11b26b3a65f054d"
+
+[update]
+[update.modrinth]
+mod-id = "eYsYyxH0"
+version = "CLUuJ1It"

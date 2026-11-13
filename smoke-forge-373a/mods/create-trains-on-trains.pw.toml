@@ -1,0 +1,13 @@
+name = "Create: Trains On Trains"
+filename = "create_trains_on_trains-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/y7SnK86G/versions/y8Iib06u/create_trains_on_trains-1.0.0.jar"
+hash-format = "sha512"
+hash = "828044be41d0ae1e58b609b970cd30e492e5ab8a770dd4708944bf3588a024839510401fdd21d4cc6af4dca3d31bebff4b7c3e29d181db59fab567b66eec9e8d"
+
+[update]
+[update.modrinth]
+mod-id = "y7SnK86G"
+version = "y8Iib06u"
