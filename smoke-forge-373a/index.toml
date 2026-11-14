@@ -56,6 +56,11 @@ hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
 
 [[files]]
+file = "mods/casinocraft.pw.toml"
+hash = "c36681779db37e0a49a0747c167bfc7cb869b0c796c135252a2368019f7a0fc0"
+metafile = true
+
+[[files]]
 file = "mods/chaoscrafts-apocalyptic-arsernal.pw.toml"
 hash = "6f438ef132f7ea30b786a004659e2275a58084d2b8f76bba0307af9b366886e7"
 metafile = true
@@ -246,6 +251,11 @@ hash = "7ffe94c2daa8151edea01fccefaa2bbb87e648d92dd0ca9ae485880053e50e20"
 metafile = true
 
 [[files]]
+file = "mods/kirris-casino.pw.toml"
+hash = "977798e697b65be79bb6e04561157a2789369eeed99fd87b86d2a7490a32bff1"
+metafile = true
+
+[[files]]
 file = "mods/knight-lib.pw.toml"
 hash = "d9b80a2bac9c11a760dcaccff38788952501c3caf6b134d8d2abc411210cd94d"
 metafile = true
@@ -268,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/lr-tactical.pw.toml"
 hash = "143569673f10c7517a0b1f09beaa9ccaf97478908d55923c1f5a6a37547d51f6"
+metafile = true
+
+[[files]]
+file = "mods/lucky77.pw.toml"
+hash = "c4b3d0a8c5879008f6a39882859bdd862a5f1b27a31e61930e7a44e719138d3a"
 metafile = true
 
 [[files]]
