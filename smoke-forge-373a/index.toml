@@ -511,16 +511,6 @@ hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
 metafile = true
 
 [[files]]
-file = "mods/waterframes.pw.toml"
-hash = "bf80e336cf4ac7cc33ae97d1f4deac1fa94d5d1cb7c0ac6a2429c2d3120583f6"
-metafile = true
-
-[[files]]
-file = "mods/watervision.pw.toml"
-hash = "3e94877a9b48b2156de7f348232beb84729d3e230c7cf267f6e381ef9f8bf8df"
-metafile = true
-
-[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "810c63c5de675c9cb2f29c4e63231ae4d35d83f906d3279ac5c7a83132fe387c"
 metafile = true
