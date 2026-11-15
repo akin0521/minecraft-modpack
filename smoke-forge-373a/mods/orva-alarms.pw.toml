@@ -1,0 +1,13 @@
+name = "Orva Alarms and Sirens"
+filename = "orva_alarms-4.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e60b7efd50036ab6f35e666ee71e6cd1b8b629e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9103511
+project-id = 419734

@@ -61,8 +61,23 @@ hash = "c36681779db37e0a49a0747c167bfc7cb869b0c796c135252a2368019f7a0fc0"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "c90d0ba44331e2920ece86e3e343b7e66bd6f9752859d5c4ce6177c2af52cf81"
+metafile = true
+
+[[files]]
+file = "mods/cdm-chaoscrafts-security-essentials-security.pw.toml"
+hash = "b42571962a2a4f513495ffcc24f3b094e588c54c17b7d6f973177ba826af5c89"
+metafile = true
+
+[[files]]
 file = "mods/chaoscrafts-apocalyptic-arsernal.pw.toml"
 hash = "6f438ef132f7ea30b786a004659e2275a58084d2b8f76bba0307af9b366886e7"
+metafile = true
+
+[[files]]
+file = "mods/chaoscrafts-devices.pw.toml"
+hash = "2366e93015500ed3f377f573ab4cafed792003daf150826c9520b39415ec8113"
 metafile = true
 
 [[files]]
@@ -126,6 +141,11 @@ hash = "e375074003b4af58201040e9dc62db995a3b4f0a0fa9b2c43887c96e1aff362c"
 metafile = true
 
 [[files]]
+file = "mods/create-radars.pw.toml"
+hash = "4676c3139d385b20863deaf99494c4024ea7b8215e7bf7d82bbc8b7e318bb509"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "c13a9000148ee786906c815c6218fad32497e9b71853614d78a8ebff5077af76"
 metafile = true
@@ -147,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "83696650659994c6facf18e79b7b53877a0df0622d6beeeb7b27bbe75f6bc0b7"
+hash = "5714e3c18aa49a7384f4bf7b36f2fe141abbd3e1ed9919ad551946039a76b958"
 metafile = true
 
 [[files]]
@@ -277,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/lr-tactical.pw.toml"
-hash = "143569673f10c7517a0b1f09beaa9ccaf97478908d55923c1f5a6a37547d51f6"
+hash = "a09a39ffb796f13d899f8bb0db8961e40e6d0e5e6cf73c97ba5aa03d2cefa93b"
 metafile = true
 
 [[files]]
@@ -307,12 +327,22 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ec20421ab84204837b743ebeb0852415479dc658b4268fdd36033ef135ff7cc9"
+hash = "084ac2d9663384151bc304817adf50c8edbd3c27a80ece51ca01b0040f21ca22"
 metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "0b3e34715f20c9f0d6d19aa043c3a53c5d3bc70a977da2fdf1651bf5c9b72fb3"
+metafile = true
+
+[[files]]
+file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
+hash = "140d4ada26eb1f4198a97274b0b24d214356f63e3d331fbd40976e55feaf0a5c"
+metafile = true
+
+[[files]]
+file = "mods/more-red.pw.toml"
+hash = "ea4a8be0d3d889f0240a975a2ba25d8c39c29900fe47de950b667dd7f5c69a88"
 metafile = true
 
 [[files]]
@@ -323,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/nuclear-bomb-bay.pw.toml"
 hash = "ce93bbe7e3a987e8a12dd064795e6851254b22f42494fdae6ed2b54ba3a4ccb9"
+metafile = true
+
+[[files]]
+file = "mods/orva-alarms.pw.toml"
+hash = "8097a642ad80e3b66ac98cb4d021dcfb04879b962356f429c6891ddc26b22f9d"
 metafile = true
 
 [[files]]
@@ -342,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/rimulib.pw.toml"
-hash = "9957891aab6a2dd0789c3d3db72afb0ca58eeee504ac7edde4c993e2c2cf6d77"
+hash = "ded43febf46c541a930fe7a47b4d51e530d0e95a4436a61294a1d29e2adf653b"
 metafile = true
 
 [[files]]
@@ -351,13 +386,23 @@ hash = "86d16efa45543f58337590f846e55d80471432c7a27f6a18dc6cc1c8de0053ac"
 metafile = true
 
 [[files]]
+file = "mods/security-craft.pw.toml"
+hash = "e0d0d32c780841642264e3cdb5b3b9fb23a21a97f55f0cd30c250638b4ab8c43"
+metafile = true
+
+[[files]]
 file = "mods/shippy-ships.pw.toml"
-hash = "3257153ddb9505adb7dabd62b626bce8e15fdad7e3c95eaff77137051d244adf"
+hash = "77f2edfa1ae31efa67f5d95d99c1d687ee852e3b86ae960ada58dff448e10d55"
 metafile = true
 
 [[files]]
 file = "mods/simply-light.pw.toml"
 hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
+metafile = true
+
+[[files]]
+file = "mods/sirencraft.pw.toml"
+hash = "a4c1d1257de6109d48c5682be3f8ad9c609dda466153b3e9111108f6a94c127f"
 metafile = true
 
 [[files]]
@@ -377,12 +422,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "446f8c2fc08aeb3375c9edc16f7a83c3f04dc1e31b4f07c06233b2a0978b164f"
+hash = "456f8121c6c4d5fe5936b5e5cfc903a30dffcfe9bf7dc75fb02daf3b9e3b6eab"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "904b64ab9a537b7ffc63f2f8521a0bb2962450177c1ee27816c181949eaf373d"
+hash = "f7b56a1dd298560d20a5b37fcd65b252e61d0a261a76960c0ffabff34895bc2a"
 metafile = true
 
 [[files]]
@@ -397,17 +442,17 @@ metafile = true
 
 [[files]]
 file = "mods/tacz-durability.pw.toml"
-hash = "536a7272e566ad6315debd15789d553ffe67218a98ff204cb3c7741209be443e"
+hash = "bb978dc8cdba26eda82cc1b65c186fb1858e2914ee4c9a225d7c8dafb912e256"
 metafile = true
 
 [[files]]
 file = "mods/tacz-tweaks.pw.toml"
-hash = "d6bab7d56578ffb57ea793f916e76a13f423043f9e334020b33a67833df5cdd8"
+hash = "af2030ed5cd361ea06e4aa24aafe12ccb297d7933d4b3e149de24207d4656593"
 metafile = true
 
 [[files]]
 file = "mods/tacza.pw.toml"
-hash = "af6c0169fae1fcbb3d55fce35d43389573d67094dbe4279fadadba3449236680"
+hash = "20d573cbb6fcac681a1a2478ee4d871af2ffa65175aebee8e347b5ca024e8ba9"
 metafile = true
 
 [[files]]
@@ -437,7 +482,12 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "42265150218eb6dbc6d819c330e69c60968889423ff47cd8573933dc80b8895c"
+hash = "bfeb4058359a1b8e48531e0f880399d98ef3f1a55aa228c97725b3cc371b71e8"
+metafile = true
+
+[[files]]
+file = "mods/toms-peripherals.pw.toml"
+hash = "771e140bad0a4642ea8861d8afe5e6e841128158ffd0738753b0df58e8063c24"
 metafile = true
 
 [[files]]
@@ -458,6 +508,21 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "bf80e336cf4ac7cc33ae97d1f4deac1fa94d5d1cb7c0ac6a2429c2d3120583f6"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "3e94877a9b48b2156de7f348232beb84729d3e230c7cf267f6e381ef9f8bf8df"
 metafile = true
 
 [[files]]
