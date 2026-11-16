@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/CustomNpcs.cfg"
+hash = "26a882068a885f70e87186572878b7a49550487d43ac2772cabd671ac70787c7"
+
+[[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "760b9fc6688b0f2caed2dfa42fe41862c72c81e361deb5a73a5c7fa200873e7d"
 metafile = true
@@ -342,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdashtools-1.0.0.jar"
-hash = "1addaac8de7aafd2d91de98c56c1cbdb941ceff803091c42cdbbf13de3e82e37"
+hash = "2c3fe7dc845e3f67552f9d9c51fc21f47aa33206d6882c3984f13a93414e4431"
 
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
