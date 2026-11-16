@@ -171,6 +171,11 @@ hash = "20c32f8edb2bb36f9311d01857856948c249e7a22aca8868942c525678f3c3cc"
 metafile = true
 
 [[files]]
+file = "mods/customnpcs-unofficial.pw.toml"
+hash = "8ef480cb001f20ebda2536aa4fbe869673995d27b215dfd9256bc0e3892ac508"
+metafile = true
+
+[[files]]
 file = "mods/daffasarsenal.pw.toml"
 hash = "33c6796e0063ddc705c8032546dafa2fd46753ceeaba6e9cde56612ffc72cc63"
 metafile = true
@@ -178,6 +183,21 @@ metafile = true
 [[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "2caeaf0ee64b4e349c82acf739bf47144001694e8e00e33cbcc734440626e86e"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-config-ui.pw.toml"
+hash = "38b465018f596dc9690e81936b2e0a95f4002d183ab8b9cd1f0e7c691d4705fc"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-core.pw.toml"
+hash = "b888b616a34315a88bdc59a26ca7ab97effa14fc20d32ee74f7dd680266dbb73"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "c8ae8ea784e1eba3638cd3d2a781980fb1519855029b54500bcdc41f5756870c"
 metafile = true
 
 [[files]]
@@ -322,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdashtools-1.0.0.jar"
-hash = "00a009e2f90b3235e5aa7dd8ea03b8042dc6abc2d37ca0f0f99a4fddc90f66b8"
+hash = "1addaac8de7aafd2d91de98c56c1cbdb941ceff803091c42cdbbf13de3e82e37"
 
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
@@ -450,6 +470,11 @@ hash = "bb978dc8cdba26eda82cc1b65c186fb1858e2914ee4c9a225d7c8dafb912e256"
 metafile = true
 
 [[files]]
+file = "mods/tacz-npcs.pw.toml"
+hash = "4640a826d75e95684b3facbac838db78a98d9007046635797d2cb2016aa4de55"
+metafile = true
+
+[[files]]
 file = "mods/tacz-tweaks.pw.toml"
 hash = "af2030ed5cd361ea06e4aa24aafe12ccb297d7933d4b3e149de24207d4656593"
 metafile = true
@@ -497,6 +522,11 @@ metafile = true
 [[files]]
 file = "mods/trotting-wagons.pw.toml"
 hash = "28d7feccb5b1fcd9b141dad4353e96bcd7154b011a871953096305aa75154a66"
+metafile = true
+
+[[files]]
+file = "mods/villager-recruits.pw.toml"
+hash = "d5f4503ebad66eef05027dd7e158d21276a0ec7ea49343a4e60b793b43f4bf07"
 metafile = true
 
 [[files]]
