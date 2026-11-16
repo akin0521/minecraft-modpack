@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdashtools-1.0.0.jar"
-hash = "2c3fe7dc845e3f67552f9d9c51fc21f47aa33206d6882c3984f13a93414e4431"
+hash = "3b30eae33ef01bb218ca9ed4fc473b6a2b053d590072b8b54f3aa8aedc43a8be"
 
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
