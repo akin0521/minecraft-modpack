@@ -91,11 +91,6 @@ hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
 metafile = true
 
 [[files]]
-file = "mods/clockwork-mod.pw.toml"
-hash = "4fb4bfb9983e56e43573d8729516be7923340be79ed35325ec641acf5f63cbc9"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -186,11 +181,6 @@ hash = "2caeaf0ee64b4e349c82acf739bf47144001694e8e00e33cbcc734440626e86e"
 metafile = true
 
 [[files]]
-file = "mods/drive-by-wire.pw.toml"
-hash = "f90d0296de2d7cbb30eddaefa5c8f3205d6aa0ab1bf7447072b44e4a2d10b187"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
@@ -223,6 +213,16 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "9e2175476f720e0b2d21b28e91873cecf5555648e2137310e1b7cf98f6b98ab8"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "8a185af41fb24e83e4497c9362943723b6afee585cf8a3bf280ac155d29bf593"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "efa75ee4aae90dea11316b6e61aecaf9433eeb3d0821f78b4eca41acbbd73e8f"
 metafile = true
 
 [[files]]
@@ -319,6 +319,10 @@ metafile = true
 file = "mods/man-of-many-planes.pw.toml"
 hash = "0b4cf3763061e4bc1f90d933e9d830244be087ab74176f9cda00773767ee9958"
 metafile = true
+
+[[files]]
+file = "mods/mcdashtools-1.0.0.jar"
+hash = "00a009e2f90b3235e5aa7dd8ea03b8042dc6abc2d37ca0f0f99a4fddc90f66b8"
 
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
@@ -491,23 +495,8 @@ hash = "771e140bad0a4642ea8861d8afe5e6e841128158ffd0738753b0df58e8063c24"
 metafile = true
 
 [[files]]
-file = "mods/trackwork.pw.toml"
-hash = "1c9c98fae4550eb61ce8816f80dd97538f281e7848c924eb0d15d7929a3b44bb"
-metafile = true
-
-[[files]]
 file = "mods/trotting-wagons.pw.toml"
 hash = "28d7feccb5b1fcd9b141dad4353e96bcd7154b011a871953096305aa75154a66"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies-2-plus-supplementaries-cannon-fix.pw.toml"
-hash = "3c37f6390238bd22f75e3b4cb7cd7659da5ed2b3526f5d7ff0e2d7ea7a67033c"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
 metafile = true
 
 [[files]]
