@@ -345,8 +345,12 @@ hash = "0b4cf3763061e4bc1f90d933e9d830244be087ab74176f9cda00773767ee9958"
 metafile = true
 
 [[files]]
+file = "mods/mcdashkeys-1.0.0.jar"
+hash = "459f9207aca568452cabb233f568d3f273ced0a7c7e338d1f589d3ca91785cf6"
+
+[[files]]
 file = "mods/mcdashtools-1.0.0.jar"
-hash = "3b30eae33ef01bb218ca9ed4fc473b6a2b053d590072b8b54f3aa8aedc43a8be"
+hash = "6ff7ce86845c9c3a0614b0e4d4acc598c4f4640755db8be2a4fb4b2b2e3c66ac"
 
 [[files]]
 file = "mods/mining-gadgets.pw.toml"
