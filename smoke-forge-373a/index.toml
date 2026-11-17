@@ -40,11 +40,6 @@ hash = "e7fb775a4e8e287ea5407b3abf8f2546e62f8dfee43d821d199d41558df2ef47"
 metafile = true
 
 [[files]]
-file = "mods/automobility.pw.toml"
-hash = "e0b0d4ffb66d813a4e6da0910d8e050bbfd8e16731dacb78fc5478029932c473"
-metafile = true
-
-[[files]]
 file = "mods/borninchaos.pw.toml"
 hash = "f908d8ee3c83f1c9ec7a5f7170b750fa2834203beaf5226bf4116458e14b9f44"
 metafile = true
@@ -60,33 +55,8 @@ hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
 
 [[files]]
-file = "mods/casinocraft.pw.toml"
-hash = "c36681779db37e0a49a0747c167bfc7cb869b0c796c135252a2368019f7a0fc0"
-metafile = true
-
-[[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "c90d0ba44331e2920ece86e3e343b7e66bd6f9752859d5c4ce6177c2af52cf81"
-metafile = true
-
-[[files]]
-file = "mods/cdm-chaoscrafts-security-essentials-security.pw.toml"
-hash = "b42571962a2a4f513495ffcc24f3b094e588c54c17b7d6f973177ba826af5c89"
-metafile = true
-
-[[files]]
 file = "mods/chaoscrafts-apocalyptic-arsernal.pw.toml"
 hash = "6f438ef132f7ea30b786a004659e2275a58084d2b8f76bba0307af9b366886e7"
-metafile = true
-
-[[files]]
-file = "mods/chaoscrafts-devices.pw.toml"
-hash = "2366e93015500ed3f377f573ab4cafed792003daf150826c9520b39415ec8113"
-metafile = true
-
-[[files]]
-file = "mods/charging-gadgets.pw.toml"
-hash = "f5cb29abad0f88ca25bf862f1e012acaeacccd3b7bca2790e8a8a6a3606ab1fc"
 metafile = true
 
 [[files]]
@@ -195,11 +165,6 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
-file = "mods/fairy-lights.pw.toml"
-hash = "eeca094798607a0393a5ec261a0f3298e20fa74b0daa879951aec47c2c7fe64b"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "c83385838fbf5cdd40684e5f6d4b7bcc2126de4abca229a60b7063e57a5a4615"
 metafile = true
@@ -212,11 +177,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
-metafile = true
-
-[[files]]
-file = "mods/flashier-flashlights.pw.toml"
-hash = "97eed615bc3c32b2c6b8ba859c89bd0bfe4c331817a2daa97d5d2b8addf4e171"
 metafile = true
 
 [[files]]
@@ -338,11 +298,6 @@ file = "mods/mcdashtools-1.0.0.jar"
 hash = "6ff7ce86845c9c3a0614b0e4d4acc598c4f4640755db8be2a4fb4b2b2e3c66ac"
 
 [[files]]
-file = "mods/mining-gadgets.pw.toml"
-hash = "d4a42351be29d476b540e810a2339b05f2f0cf789d62404da7c708b685c9ecda"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "084ac2d9663384151bc304817adf50c8edbd3c27a80ece51ca01b0040f21ca22"
 metafile = true
@@ -353,16 +308,6 @@ hash = "0b3e34715f20c9f0d6d19aa043c3a53c5d3bc70a977da2fdf1651bf5c9b72fb3"
 metafile = true
 
 [[files]]
-file = "mods/more-red-x-cc-tweaked-compat.pw.toml"
-hash = "140d4ada26eb1f4198a97274b0b24d214356f63e3d331fbd40976e55feaf0a5c"
-metafile = true
-
-[[files]]
-file = "mods/more-red.pw.toml"
-hash = "ea4a8be0d3d889f0240a975a2ba25d8c39c29900fe47de950b667dd7f5c69a88"
-metafile = true
-
-[[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "2b8f42e2738eee168da78318c19249f78a546dd3f0a08084afcb7ddacc0144b4"
 metafile = true
@@ -370,11 +315,6 @@ metafile = true
 [[files]]
 file = "mods/nuclear-bomb-bay.pw.toml"
 hash = "ce93bbe7e3a987e8a12dd064795e6851254b22f42494fdae6ed2b54ba3a4ccb9"
-metafile = true
-
-[[files]]
-file = "mods/orva-alarms.pw.toml"
-hash = "8097a642ad80e3b66ac98cb4d021dcfb04879b962356f429c6891ddc26b22f9d"
 metafile = true
 
 [[files]]
@@ -408,18 +348,8 @@ hash = "e0d0d32c780841642264e3cdb5b3b9fb23a21a97f55f0cd30c250638b4ab8c43"
 metafile = true
 
 [[files]]
-file = "mods/shippy-ships.pw.toml"
-hash = "77f2edfa1ae31efa67f5d95d99c1d687ee852e3b86ae960ada58dff448e10d55"
-metafile = true
-
-[[files]]
 file = "mods/simply-light.pw.toml"
 hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
-metafile = true
-
-[[files]]
-file = "mods/sirencraft.pw.toml"
-hash = "a4c1d1257de6109d48c5682be3f8ad9c609dda466153b3e9111108f6a94c127f"
 metafile = true
 
 [[files]]
@@ -478,18 +408,8 @@ hash = "20d573cbb6fcac681a1a2478ee4d871af2ffa65175aebee8e347b5ca024e8ba9"
 metafile = true
 
 [[files]]
-file = "mods/taczaddon.pw.toml"
-hash = "638d0d6f801ad623a13482da47770c71d9e9d95b4f2ca235933d4c046f952c29"
-metafile = true
-
-[[files]]
 file = "mods/tenshilib.pw.toml"
 hash = "25ac4e21c8f32b8bc174037bb4a6b4e9ca7b03018de859596113022de4906036"
-metafile = true
-
-[[files]]
-file = "mods/the-shooting-star-demo.pw.toml"
-hash = "06cfe11fba29b9a7ad48a1db390b36e74230ca69bc6beeb3c8be2c24bf894441"
 metafile = true
 
 [[files]]
