@@ -1,0 +1,13 @@
+name = "TACZ: Durability (Timeless and Classics Guns)"
+filename = "gundb-2.2.3-1.20.1-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bf8813800373b6d8086d40952cc214062e9e9a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9603289
+project-id = 1065328

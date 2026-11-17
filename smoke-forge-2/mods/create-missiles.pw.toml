@@ -1,0 +1,13 @@
+name = "Create Missiles"
+filename = "createmissiles-1.0.1+forge-1.20.1-build.644.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8dmJJTC3/versions/SeU2YI1F/createmissiles-1.0.1%2Bforge-1.20.1-build.644.jar"
+hash-format = "sha512"
+hash = "449484794aa514145757a0b86a87b46b2b6b9093383fb6e40433582c87e3f7c7040ce484fe41085560693e4506c2bc6b1ecb00d526338fd3b1b0f4308daf3860"
+
+[update]
+[update.modrinth]
+mod-id = "8dmJJTC3"
+version = "SeU2YI1F"

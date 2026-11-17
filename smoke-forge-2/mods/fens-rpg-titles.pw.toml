@@ -1,0 +1,13 @@
+name = "Fen's RPG Titles"
+filename = "mmorpgtitles-2.3.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0f1e2e190f11149110503b026ab44216a5d36dda"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9326849
+project-id = 1233905

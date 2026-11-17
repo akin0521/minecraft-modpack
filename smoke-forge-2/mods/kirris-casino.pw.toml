@@ -1,0 +1,13 @@
+name = "Kirri's Casino: Slots, Roulette & Blackjack"
+filename = "kirriscasino-forge-1.20.1-0.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec598babfe255aca7f1f64ac1b3063d6712dc981"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9435630
+project-id = 1685398

@@ -1,0 +1,13 @@
+name = "[CDM] ChaosCraft's Devices"
+filename = "chaoscrafts_device_mod-1.9.0-beta-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1d56282e396dfea2d183bc442cdd8a3bc3b13ee"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8665061
+project-id = 1344649

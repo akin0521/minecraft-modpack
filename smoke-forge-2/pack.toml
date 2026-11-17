@@ -1,0 +1,13 @@
+name = "Smoke Forge 2"
+author = "mcdash"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5043bc51b59ada9998afc2f09cb1d657472c872640254de66b4ed0868223663e"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
