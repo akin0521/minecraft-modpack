@@ -190,21 +190,6 @@ hash = "2caeaf0ee64b4e349c82acf739bf47144001694e8e00e33cbcc734440626e86e"
 metafile = true
 
 [[files]]
-file = "mods/easy-npc-config-ui.pw.toml"
-hash = "38b465018f596dc9690e81936b2e0a95f4002d183ab8b9cd1f0e7c691d4705fc"
-metafile = true
-
-[[files]]
-file = "mods/easy-npc-core.pw.toml"
-hash = "b888b616a34315a88bdc59a26ca7ab97effa14fc20d32ee74f7dd680266dbb73"
-metafile = true
-
-[[files]]
-file = "mods/easy-npc.pw.toml"
-hash = "c8ae8ea784e1eba3638cd3d2a781980fb1519855029b54500bcdc41f5756870c"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
