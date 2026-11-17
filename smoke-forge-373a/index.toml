@@ -5,11 +5,6 @@ file = "config/CustomNpcs.cfg"
 hash = "26a882068a885f70e87186572878b7a49550487d43ac2772cabd671ac70787c7"
 
 [[files]]
-file = "mods/additional-lights.pw.toml"
-hash = "760b9fc6688b0f2caed2dfa42fe41862c72c81e361deb5a73a5c7fa200873e7d"
-metafile = true
-
-[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "0cbc4b2c6b58b7a94f030ae84f18057e5dc78a17bad429f40b8884926a6ab233"
 metafile = true
@@ -80,18 +75,8 @@ hash = "5d5049e9d4a886b2fa84215fc2bd8a38a8e0c0395c2e753d92907e4a30888d2a"
 metafile = true
 
 [[files]]
-file = "mods/cofh-core.pw.toml"
-hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
-metafile = true
-
-[[files]]
 file = "mods/copycats.pw.toml"
 hash = "bc4c7fcbe7ac207a8cf408e754a02ffb61cc106a5445a6987a0924b45ce8b53b"
-metafile = true
-
-[[files]]
-file = "mods/create-additional-lights.pw.toml"
-hash = "2efedb0b64d603d60d0d6dce6eee71d73e6d523468f16f53179c77a4e9a32469"
 metafile = true
 
 [[files]]
@@ -353,16 +338,6 @@ hash = "e0d0d32c780841642264e3cdb5b3b9fb23a21a97f55f0cd30c250638b4ab8c43"
 metafile = true
 
 [[files]]
-file = "mods/simply-light.pw.toml"
-hash = "762eced5d260cdbc94f0acc033efd8fe70fdfe5a28bd8d180e0b052de509893f"
-metafile = true
-
-[[files]]
-file = "mods/small-ships.pw.toml"
-hash = "94496c76ed94dd7170681e9fafc4125c7f8405318fbadbbb1a0044e5bec7423d"
-metafile = true
-
-[[files]]
 file = "mods/sodium-dynamic-lights.pw.toml"
 hash = "82bb7cd6c8b68bb1831bb7c374bd316b6403cd01195d582f19c31076c908953a"
 metafile = true
@@ -415,16 +390,6 @@ metafile = true
 [[files]]
 file = "mods/tenshilib.pw.toml"
 hash = "25ac4e21c8f32b8bc174037bb4a6b4e9ca7b03018de859596113022de4906036"
-metafile = true
-
-[[files]]
-file = "mods/thermal-foundation.pw.toml"
-hash = "876d11fe425ab32015927d63b35fa99b0cc24623916b4ba1951958c8fde5aacd"
-metafile = true
-
-[[files]]
-file = "mods/thermal-innovation.pw.toml"
-hash = "9d3caee351b004fa5fece4e3b434b55181e453f51e49f46b67a71b063928a8e2"
 metafile = true
 
 [[files]]
