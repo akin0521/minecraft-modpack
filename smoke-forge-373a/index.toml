@@ -50,8 +50,8 @@ hash = "c90d0ba44331e2920ece86e3e343b7e66bd6f9752859d5c4ce6177c2af52cf81"
 metafile = true
 
 [[files]]
-file = "mods/chenjieconomy-0.3.0.jar"
-hash = "63e5b003a66ab140b0fe26a661a91106c3ad1344c815257004ea1af998962b38"
+file = "mods/chenjieconomy-0.4.0.jar"
+hash = "27501a8695361a22f6d2208213f1ce23dffa1c4c07eaccce3dc0754b6fc734fe"
 
 [[files]]
 file = "mods/citadel.pw.toml"
@@ -120,11 +120,6 @@ metafile = true
 [[files]]
 file = "mods/cucumber.pw.toml"
 hash = "20c32f8edb2bb36f9311d01857856948c249e7a22aca8868942c525678f3c3cc"
-metafile = true
-
-[[files]]
-file = "mods/customnpcs-unofficial.pw.toml"
-hash = "8ef480cb001f20ebda2536aa4fbe869673995d27b215dfd9256bc0e3892ac508"
 metafile = true
 
 [[files]]
