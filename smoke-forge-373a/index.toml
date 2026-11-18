@@ -303,11 +303,6 @@ hash = "2b8f42e2738eee168da78318c19249f78a546dd3f0a08084afcb7ddacc0144b4"
 metafile = true
 
 [[files]]
-file = "mods/nuclear-bomb-bay.pw.toml"
-hash = "ce93bbe7e3a987e8a12dd064795e6851254b22f42494fdae6ed2b54ba3a4ccb9"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "26569e19bf9fb02bf38c8870b65158912d2bc024a6d78af3647257c7f8fe50d1"
 metafile = true
