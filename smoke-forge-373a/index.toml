@@ -20,11 +20,6 @@ hash = "5922845f6c9bb57548eca500857ebd2268bffe3799373b7306c2bdfb706d5f95"
 metafile = true
 
 [[files]]
-file = "mods/another-furniture.pw.toml"
-hash = "90b4a61d7ee6099dc34cf85f099299293401b87fc8f3ca07ed59262c1c63c5a5"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -55,11 +50,6 @@ hash = "c90d0ba44331e2920ece86e3e343b7e66bd6f9752859d5c4ce6177c2af52cf81"
 metafile = true
 
 [[files]]
-file = "mods/chaoscrafts-apocalyptic-arsernal.pw.toml"
-hash = "6f438ef132f7ea30b786a004659e2275a58084d2b8f76bba0307af9b366886e7"
-metafile = true
-
-[[files]]
 file = "mods/citadel.pw.toml"
 hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
 metafile = true
@@ -78,6 +68,10 @@ metafile = true
 file = "mods/copycats.pw.toml"
 hash = "bc4c7fcbe7ac207a8cf408e754a02ffb61cc106a5445a6987a0924b45ce8b53b"
 metafile = true
+
+[[files]]
+file = "mods/cosmetica-forge-2.0.2-1.20.1.jar"
+hash = "ad5b07ddad2dfe5d2982c7c7f3251bfa95db8c0e448eb42062783fe84ef7b21e"
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
@@ -192,11 +186,6 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "145d32a60f94c6541c7d381e09590f6ad96b89a904fa059a50b1491f80b8ff6d"
-metafile = true
-
-[[files]]
-file = "mods/handcrafted.pw.toml"
-hash = "db495b3ac268709a2ba673bfe220b10257fb7dae549f94bfbd539617d571f131"
 metafile = true
 
 [[files]]
@@ -400,11 +389,6 @@ metafile = true
 [[files]]
 file = "mods/trotting-wagons.pw.toml"
 hash = "28d7feccb5b1fcd9b141dad4353e96bcd7154b011a871953096305aa75154a66"
-metafile = true
-
-[[files]]
-file = "mods/villager-recruits.pw.toml"
-hash = "d5f4503ebad66eef05027dd7e158d21276a0ec7ea49343a4e60b793b43f4bf07"
 metafile = true
 
 [[files]]
