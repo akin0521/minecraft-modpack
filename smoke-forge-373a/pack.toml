@@ -1,12 +1,12 @@
 name = "Cheonji"
 author = "yungyeom"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e4eb48a75653cd8a7f5c0af6ec1c5a74d5e9105e030d99fbcd0bc8858a984cc7"
+hash = "276dac6b8088696e7c8aa01a471a83feefa0718c14c0e4190bc797a46a6bdb98"
 
 [versions]
 forge = "47.4.10"
