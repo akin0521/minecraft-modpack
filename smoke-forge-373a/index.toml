@@ -84,11 +84,6 @@ hash = "8075b607c4cbcf37445296cfab13c09f8b2cb8703c3cd91c8d677c96ab38d940"
 metafile = true
 
 [[files]]
-file = "mods/create-fast-schematic-cannon.pw.toml"
-hash = "eda191e459606823d0ba5b8f93226afd0577a82890a5fc85050198ea37cb788c"
-metafile = true
-
-[[files]]
 file = "mods/create-missiles.pw.toml"
 hash = "e375074003b4af58201040e9dc62db995a3b4f0a0fa9b2c43887c96e1aff362c"
 metafile = true
@@ -101,11 +96,6 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "c13a9000148ee786906c815c6218fad32497e9b71853614d78a8ebff5077af76"
-metafile = true
-
-[[files]]
-file = "mods/create-trains-on-trains.pw.toml"
-hash = "366f8380477e6f0a13eb65575c1e176fc9a8118f73e2c429c7a106d43714f75f"
 metafile = true
 
 [[files]]
@@ -244,6 +234,11 @@ hash = "b684e31e68e4f0fe7a418afbdc2318a044d208ffdd9b19ea9d4f0ab918536efd"
 metafile = true
 
 [[files]]
+file = "mods/lightmans-currency.pw.toml"
+hash = "b3663eb41c7a97e5b2a107cf824e493488e00e11bc21ef14b8742b9cc59e9cd4"
+metafile = true
+
+[[files]]
 file = "mods/lr-tactical.pw.toml"
 hash = "a09a39ffb796f13d899f8bb0db8961e40e6d0e5e6cf73c97ba5aa03d2cefa93b"
 metafile = true
@@ -354,11 +349,6 @@ metafile = true
 [[files]]
 file = "mods/tacz-durability.pw.toml"
 hash = "bb978dc8cdba26eda82cc1b65c186fb1858e2914ee4c9a225d7c8dafb912e256"
-metafile = true
-
-[[files]]
-file = "mods/tacz-npcs.pw.toml"
-hash = "4640a826d75e95684b3facbac838db78a98d9007046635797d2cb2016aa4de55"
 metafile = true
 
 [[files]]
