@@ -50,8 +50,8 @@ hash = "c90d0ba44331e2920ece86e3e343b7e66bd6f9752859d5c4ce6177c2af52cf81"
 metafile = true
 
 [[files]]
-file = "mods/chenjieconomy-0.1.0.jar"
-hash = "abf14746ae6ac51f515484a6955c65de61be154614bcb08aee81790ec66edd1f"
+file = "mods/chenjieconomy-0.2.0.jar"
+hash = "d53a0b0a8f14d649d8f0bbe17fdda53605fdaa23fa0edb208d2d777a13cb7f33"
 
 [[files]]
 file = "mods/citadel.pw.toml"
@@ -235,11 +235,6 @@ metafile = true
 [[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
 hash = "b684e31e68e4f0fe7a418afbdc2318a044d208ffdd9b19ea9d4f0ab918536efd"
-metafile = true
-
-[[files]]
-file = "mods/lightmans-currency.pw.toml"
-hash = "b3663eb41c7a97e5b2a107cf824e493488e00e11bc21ef14b8742b9cc59e9cd4"
 metafile = true
 
 [[files]]
