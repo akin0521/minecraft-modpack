@@ -50,6 +50,10 @@ hash = "c90d0ba44331e2920ece86e3e343b7e66bd6f9752859d5c4ce6177c2af52cf81"
 metafile = true
 
 [[files]]
+file = "mods/chenjieconomy-0.1.0.jar"
+hash = "abf14746ae6ac51f515484a6955c65de61be154614bcb08aee81790ec66edd1f"
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
 metafile = true
