@@ -165,6 +165,11 @@ hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "df07d5af0d287b944943b65e0b0990dc21fbbad6fee05b9d698a9f62b906ea9c"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "145d32a60f94c6541c7d381e09590f6ad96b89a904fa059a50b1491f80b8ff6d"
 metafile = true
@@ -182,11 +187,6 @@ metafile = true
 [[files]]
 file = "mods/improved-mobs.pw.toml"
 hash = "5aa379ba6fe1ebdda8bbe5f5af6a333cf9262ec63fd67ca41febcc885ac2d70f"
-metafile = true
-
-[[files]]
-file = "mods/industrialdeco.pw.toml"
-hash = "c0a808f8c61661fc339846f80ace096aeb88b25b51b1818bb02a35fbee6fd7d1"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcdashtools-1.0.0.jar"
-hash = "6ff7ce86845c9c3a0614b0e4d4acc598c4f4640755db8be2a4fb4b2b2e3c66ac"
+hash = "93bd6531c0407f124d7574c074bd653fd772ba916fe8d71886e1b842b93a6fd2"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
