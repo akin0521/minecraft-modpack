@@ -54,8 +54,13 @@ hash = "c90d0ba44331e2920ece86e3e343b7e66bd6f9752859d5c4ce6177c2af52cf81"
 metafile = true
 
 [[files]]
+file = "mods/charging-gadgets.pw.toml"
+hash = "f5cb29abad0f88ca25bf862f1e012acaeacccd3b7bca2790e8a8a6a3606ab1fc"
+metafile = true
+
+[[files]]
 file = "mods/chenjieconomy-0.4.0.jar"
-hash = "66c3ee9d8c816f7e21d77773a68820089533e4db0078ae11b9afc7f851ba8328"
+hash = "484c868b43517ba7ffccfa978b108df4961069e381f9f4fa5ea9e5b031866e99"
 
 [[files]]
 file = "mods/citadel.pw.toml"
@@ -70,6 +75,11 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib.pw.toml"
 hash = "5d5049e9d4a886b2fa84215fc2bd8a38a8e0c0395c2e753d92907e4a30888d2a"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
 metafile = true
 
 [[files]]
@@ -362,6 +372,16 @@ metafile = true
 [[files]]
 file = "mods/tenshilib.pw.toml"
 hash = "25ac4e21c8f32b8bc174037bb4a6b4e9ca7b03018de859596113022de4906036"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "876d11fe425ab32015927d63b35fa99b0cc24623916b4ba1951958c8fde5aacd"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "9d3caee351b004fa5fece4e3b434b55181e453f51e49f46b67a71b063928a8e2"
 metafile = true
 
 [[files]]
