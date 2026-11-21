@@ -130,6 +130,11 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/faktocraft.pw.toml"
+hash = "595e64f110c444ca85cd1c6a2093fcea6cd5ecb387bcd25ffb47eb36a489a3dd"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "c83385838fbf5cdd40684e5f6d4b7bcc2126de4abca229a60b7063e57a5a4615"
 metafile = true
