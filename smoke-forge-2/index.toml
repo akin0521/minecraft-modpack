@@ -51,8 +51,8 @@ hash = "f5cb29abad0f88ca25bf862f1e012acaeacccd3b7bca2790e8a8a6a3606ab1fc"
 metafile = true
 
 [[files]]
-file = "mods/chenjieconomy-0.4.5.jar"
-hash = "63c2ae70985919d16ba3ad2564ef8d30a441be555ede6036417ed7a9ae443f9f"
+file = "mods/chenjieconomy-0.4.6.jar"
+hash = "b115a847e0b443d96aab8946b022d2669385591616bee09f7606e82586d24ef5"
 
 [[files]]
 file = "mods/citadel.pw.toml"
