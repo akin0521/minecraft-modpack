@@ -1,12 +1,12 @@
 name = "천지 마크섭"
 author = "yungyeom"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a67eed350ec246ec20753fb83831b075050aca2c02ff77d387f63a6032bd3168"
+hash = "cb4f0bcf6192a88c37edf4fb2fb442b70e6982c0f83cfd7fb1e73c8ac7f1b237"
 
 [versions]
 forge = "47.4.10"
